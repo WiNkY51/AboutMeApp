@@ -13,6 +13,7 @@
 		CAB6E0F72C51888900978E81 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CAB6E0F62C51888900978E81 /* Base */; };
 		CAB6E0F92C51889700978E81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAB6E0F82C51889700978E81 /* Assets.xcassets */; };
 		CAB6E0FC2C51889700978E81 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = CAB6E0FB2C51889700978E81 /* Base */; };
+		CAB6E1062C51F2F300978E81 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB6E1052C51F2F300978E81 /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CAB6E0F82C51889700978E81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAB6E0FB2C51889700978E81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CAB6E0FD2C51889700978E81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAB6E1052C51F2F300978E81 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CAB6E0EF2C51888900978E81 /* AppDelegate.swift */,
 				CAB6E0F12C51888900978E81 /* SceneDelegate.swift */,
 				CAB6E0F32C51888900978E81 /* LoginViewController.swift */,
+				CAB6E1052C51F2F300978E81 /* WelcomeViewController.swift */,
 				CAB6E0F52C51888900978E81 /* Main.storyboard */,
 				CAB6E0F82C51889700978E81 /* Assets.xcassets */,
 				CAB6E0FA2C51889700978E81 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAB6E0F42C51888900978E81 /* LoginViewController.swift in Sources */,
+				CAB6E1062C51F2F300978E81 /* WelcomeViewController.swift in Sources */,
 				CAB6E0F02C51888900978E81 /* AppDelegate.swift in Sources */,
 				CAB6E0F22C51888900978E81 /* SceneDelegate.swift in Sources */,
 			);
